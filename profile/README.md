@@ -1,7 +1,6 @@
-<img src='https://o.remove.bg/downloads/e56a3c75-1a1b-4904-970e-db41c678ac22/1628438974677-removebg-preview.png' width='400px' />
+<img src='https://github.com/famcorefoundation/.github/assets/45181517/e39c4dfd-8566-4650-ac88-2b57285cf611' width='200px' />
 
 ---
-
 ## Hello! 👋
 The Famcore Foundation is a 501(c)(3) nonprofit organization which believes that every community has the opportunity to come together and help those in need. We facilitate these charitable activities by founding service drives that create communal ventures focusing on delivering aid to low-income families.
 ## Our History
