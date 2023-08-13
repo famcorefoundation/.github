@@ -1,4 +1,4 @@
-<img src='https://images.squarespace-cdn.com/content/v1/5a7d0db48fd4d29c2b217341/1602170066426-WFKAUT6OIBFS2A0L79IX/Main+Logo+FINAL.png?format=1500w' width='200px' />
+<img src='https://o.remove.bg/downloads/e56a3c75-1a1b-4904-970e-db41c678ac22/1628438974677-removebg-preview.png' width='400px' />
 
 ---
 
