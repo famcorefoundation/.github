@@ -1,4 +1,4 @@
-<img src='https://github.com/famcorefoundation/.github/assets/45181517/e39c4dfd-8566-4650-ac88-2b57285cf611' width='200px' />
+![horizlogo](https://github.com/famcorefoundation/.github/assets/45181517/83ba0443-b6cd-4204-ba35-821a3d817eb5)
 
 ---
 ## Hello! 👋
